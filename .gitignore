@@ -4,6 +4,8 @@
 *.xml
 *.log
 *.tree
+*.prefs
+*.ini
 *.resources
 *.iml
 # Log file
